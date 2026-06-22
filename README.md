@@ -98,18 +98,6 @@ En una VPN basada en políticas, el tráfico que será cifrado se define mediant
 
 ---
 
-## ⚙️ Requisitos
-
-Para utilizar IPSec es necesario contar con una imagen Cisco IOS con soporte criptográfico (**K9**).
-
-### Imágenes Compatibles
-
-```text
-c2691-entservicesk9-mz.124-13b.bin
-c2691-adventerprisek9-mz.124-15.T14.bin
-c3725-adventerprisek9-mz.124-15.T14.bin
-```
-
 ### Verificación
 
 ```bash
