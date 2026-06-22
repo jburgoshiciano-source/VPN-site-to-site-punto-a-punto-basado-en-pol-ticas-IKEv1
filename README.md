@@ -22,7 +22,6 @@ Se implementaron las siguientes versiones del protocolo de intercambio de claves
 
 ---
 ## Video explicativo
-
 **Link del video**: https://youtu.be/wu8sxwnN3nI
 ---
 
