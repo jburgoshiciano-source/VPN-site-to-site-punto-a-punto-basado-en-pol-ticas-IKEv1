@@ -34,7 +34,7 @@ Se implementaron las siguientes versiones del protocolo de intercambio de claves
 
 ## 🖼️ Topología
 
-![Topología VPN](https://github.com/jburgoshiciano-source/VPN-site-to-site-punto-a-punto-basado-en-pol-ticas-IKEv1/blob/d23e0d65d52c49780f8bd311b8fe0ae018c5a713/vpn.)
+![Topología VPN](https://github.com/jburgoshiciano-source/VPN-site-to-site-punto-a-punto-basado-en-pol-ticas-IKEv1/blob/d23e0d65d52c49780f8bd311b8fe0ae018c5a713/vpn.png)
 
 ---
 
