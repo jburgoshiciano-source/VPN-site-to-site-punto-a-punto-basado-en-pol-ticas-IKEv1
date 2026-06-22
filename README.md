@@ -1,1 +1,1 @@
-# VPN-site-to-site-punto-a-punto-basado-en-pol-ticas-IKEv1
+# VPN-site-to-site-punto-a-punto-basado-en-politicas-IKEv1
