@@ -215,6 +215,3 @@ permitiendo una comunicación segura a través de una red pública mediante cifr
 
 ---
 
-⭐ Proyecto académico desarrollado por **Juan Francisco Burgos Hiciano (2023-1981)**.
-
-Para que los comandos `crypto` funcionen, el IOS debe contener **K9** en el nombre de la imagen, indicando el feature set de criptografía:
