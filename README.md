@@ -4,8 +4,11 @@
 ## 📌 Información General
 
 **Estudiante:** Juan Francisco Burgos Hiciano  
+
 **Matrícula:** 2023-1981  
+
 **Asignatura:** Seguridad en Redes  
+
 **Link del video**: https://youtu.be/wu8sxwnN3nI
 ---
 
