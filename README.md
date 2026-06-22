@@ -21,6 +21,10 @@ Se implementaron las siguientes versiones del protocolo de intercambio de claves
 - **IKEv2**: versión moderna que ofrece mejor rendimiento, mayor seguridad y una negociación más eficiente.
 
 ---
+## Video explicativo
+
+**Link del video**: https://youtu.be/1-RoZ_HSxqc
+---
 
 ## 🎯 Objetivos
 
